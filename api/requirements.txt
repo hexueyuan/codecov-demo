@@ -21,7 +21,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
-matplotlib==2.2.5
 more-itertools==5.0.0
 Naked==0.1.32
 networkx==2.2
